@@ -8,7 +8,6 @@ This is an example of a UDAF which retrieves the latest N elements in a group by
 Table of Contents
 
 * <a href="#Requirements">Versions and Requirements</a>
-* <a href="#Examples">Examples</a>
 * <a href="#Learn">Want to Learn More?</a>
 * <a href="#License">License</a>
 
